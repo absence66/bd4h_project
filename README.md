@@ -1,6 +1,7 @@
 # CSE6250_bd4h_project
 ## Requirements:
 Python == 3.9.7
+
 Pytorch == 1.13.0
 
 ## Steps to run the code for model training:
